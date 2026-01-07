@@ -20,7 +20,7 @@ header {
   background-color: #f2e1d4;
   background: url(../images/developer.png), url(../images/header_bg.png),
     #f2e1d4;
-  background-position: top left, bottom right;
+  background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
 }
